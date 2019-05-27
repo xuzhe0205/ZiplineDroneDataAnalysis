@@ -65,4 +65,6 @@ Name | Units | Description
 
 This is a relatively unstructured, independent exploratory data analysis & visualization assignment. Use your skills to discern details and find patterns in the data, and show us your process in a Jupyter notebook (or similar). Ultimately, we're looking for you to communicate actionable insights — things like corrupted or missing data points, unexplained behaviors, individual outlier launches, diurnal weather patterns, poorly performing parts, etc. — to the engineering & operations team in the form of interpretable figures and tables with a short description of your findings.
 
-Once you've completed the project, please attach your submission to an email sent to emily@flyzipline.com.
+## Acknowledgement
+
+* Zipline Inc.
